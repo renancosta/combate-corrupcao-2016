@@ -27,8 +27,8 @@ As soluções descritas acima serão refinadas e talvez modificadas de acordo co
 
 == Validação da proposta:
 Protótipo da ideia
-===Entrevista aberta
-Possíveis questões: Você já presenciou algum fato que considera corrupção? Se sim, onde foi e como foi? Você sentiu vontade de realizar alguma denúncia ou expor isso? E sabe como levar essa denúncia a entidades responsáveis? 
+Entrevista aberta
+* Possíveis questões: Você já presenciou algum fato que considera corrupção? Se sim, onde foi e como foi? Você sentiu vontade de realizar alguma denúncia ou expor isso? E sabe como levar essa denúncia a entidades responsáveis? 
 
 == Plano de entregas semanais
 
